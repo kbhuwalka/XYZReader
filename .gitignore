@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# Gradle Build Files
+# =========================
+
+.gradle
+build/
+gradle/wrapper/gradle-wrapper.properties
+gradle.properties
+build.gradle
+app/build.gradle
